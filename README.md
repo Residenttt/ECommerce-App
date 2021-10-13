@@ -16,11 +16,11 @@ Using Bootstrap 5 and JQuery, made a simple e-commerce system with REST API to s
 ## Application Images
 
 <p>
-<a href="https://github.com/Residenttt/Youtube-API/blob/master/img/01.png" target="_blank">
-<img src="https://github.com/Residenttt/Youtube-API/blob/master/img/01.png" width="240" height='467' style="max-width:100%;"></a>
+<a href="https://github.com/Residenttt/ECommerce-App/blob/main/img/01.png" target="_blank">
+<img src="https://github.com/Residenttt/ECommerce-App/blob/main/img/01.png" width="240" height='467' style="max-width:100%;"></a>
   
-<a href="https://github.com/Residenttt/Youtube-API/blob/master/img/02.png" target="_blank">
-<img src="https://github.com/Residenttt/Youtube-API/blob/master/img/02.png" width="240" style="max-width:100%;"></a>
+<a href="https://github.com/Residenttt/ECommerce-App/blob/main/img/02.png" target="_blank">
+<img src="https://github.com/Residenttt/ECommerce-App/blob/main/img/02.png" width="240" style="max-width:100%;"></a>
   
 <a href="https://github.com/Residenttt/Youtube-API/blob/master/img/03.png" target="_blank">
 <img src="https://github.com/Residenttt/Youtube-API/blob/master/img/03.png" width="240" style="max-width:100%;"></a>
